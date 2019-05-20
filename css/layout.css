@@ -24,4 +24,51 @@
 
 /* Positioning Classes */
 
+.featured-brands{ 
+  float: left;
+  width: 66%;
+  margin-left: 2%;
+} 
+
+.shoes_archive{
+  float: left;
+  width: 32%;
+  margin-left: 2%;
+}
+
+
+.first {
+  margin-left: 0%;
+  clear: both;
+}
+
+.deals {
+   margin-top: 20px;
+}
+
+.contact_border_right {
+  display: table-cell;
+  border-right: 1px dotted #ccc;
+  width: 27em;
+  margin-right: 13px;
+  padding: 1em;
+}
+.border_right {
+  display: table-cell;
+  border-right: 1px dotted #ccc;
+  width: 33em;
+  margin-right: 13px;
+  padding: 1em;
+}
+
+ .follow {
+  display: table-cell;
+  width: 33.33em;
+  margin-right: 13px;
+  padding: 1em
+}
+
+
+
+
 
