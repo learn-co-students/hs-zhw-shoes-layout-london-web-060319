@@ -23,5 +23,34 @@
 }
 
 /* Positioning Classes */
+.block-1 {
+  float: left;
+  width: 32%;
+  margin-left: 2%;
+}
 
+.block-2 {
+  float: left;
+  width: 66%;
+  margin-left: 2%;
+}
 
+ .first {
+  margin-left: 0;
+  clear: both;
+}
+
+ .deal-block {
+  margin-top: 20px;
+}
+
+.footer-separators, .follow {
+  display: table-cell;
+  width: 30em;
+  margin-right: 15px;
+  padding: 1em;
+}
+
+.footer-separators {
+  border-right: 1px dotted #ccc;
+}
